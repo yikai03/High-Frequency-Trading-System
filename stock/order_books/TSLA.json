@@ -1,0 +1,61 @@
+{
+  "buy_orders": [
+    {
+      "broker_id": 9,
+      "client_id": 6,
+      "order_id": "order12",
+      "stock_symbol": "TSLA",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 88.77745131425107,
+      "quantity": 5,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 9,
+      "order_id": "order50",
+      "stock_symbol": "TSLA",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 86.98623754335323,
+      "quantity": 1,
+      "status": "Pending"
+    }
+  ],
+  "sell_orders": [
+    {
+      "broker_id": 3,
+      "client_id": 1,
+      "order_id": "order69",
+      "stock_symbol": "TSLA",
+      "order_type": "Limit",
+      "order_action": "Sell",
+      "price": 100.0,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 7,
+      "order_id": "order30",
+      "stock_symbol": "TSLA",
+      "order_type": "Limit",
+      "order_action": "Sell",
+      "price": 102.41686127662554,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 10,
+      "client_id": 8,
+      "order_id": "order30",
+      "stock_symbol": "TSLA",
+      "order_type": "Limit",
+      "order_action": "Sell",
+      "price": 119.43077159396316,
+      "quantity": 7,
+      "status": "Pending"
+    }
+  ]
+}
