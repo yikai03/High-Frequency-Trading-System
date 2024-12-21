@@ -1,4 +1,16 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 522",
+      "stock_symbol": "SLB",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 10,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

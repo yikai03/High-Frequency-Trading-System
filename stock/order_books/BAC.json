@@ -1,4 +1,27 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 5",
+      "stock_symbol": "BAC",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 7",
+      "stock_symbol": "BAC",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 3,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

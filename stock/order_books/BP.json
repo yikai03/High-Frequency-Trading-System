@@ -1,4 +1,115 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 25",
+      "stock_symbol": "BP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 119.18,
+      "quantity": 7,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 9,
+      "order_id": "Order 63",
+      "stock_symbol": "BP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 113.13,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 371",
+      "stock_symbol": "BP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 112.55,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 382",
+      "stock_symbol": "BP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 107.7,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 23",
+      "stock_symbol": "BP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 103.19,
+      "quantity": 9,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 338",
+      "stock_symbol": "BP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 2,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 645",
+      "stock_symbol": "BP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 457",
+      "stock_symbol": "BP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 99.66,
+      "quantity": 7,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 606",
+      "stock_symbol": "BP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 86.16,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 658",
+      "stock_symbol": "BP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 84.16,
+      "quantity": 4,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

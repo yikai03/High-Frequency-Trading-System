@@ -1,4 +1,214 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 3,
+      "client_id": 9,
+      "order_id": "Order 107",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 116.92,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 9,
+      "order_id": "Order 79",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 113.72,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 9,
+      "order_id": "Order 92",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 112.94,
+      "quantity": 7,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 9,
+      "order_id": "Order 486",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 111.07,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 193",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 104.76,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 627",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 101.95,
+      "quantity": 5,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 523",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 101.82,
+      "quantity": 5,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 246",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 292",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 7,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 9,
+      "order_id": "Order 427",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 5,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 433",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 435",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 563",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 2,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 583",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 686",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 8,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 410",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 94.57,
+      "quantity": 8,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 449",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 88.66,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 493",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 85.92,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 702",
+      "stock_symbol": "HD",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 81.18,
+      "quantity": 4,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

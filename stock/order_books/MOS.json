@@ -1,4 +1,204 @@
 {
-  "buy_orders": [],
-  "sell_orders": []
+  "buy_orders": [
+    {
+      "broker_id": 2,
+      "client_id": 4,
+      "order_id": "Order 143",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 114.7,
+      "quantity": 2,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 630",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 113.44,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 720",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 106.11,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 1,
+      "client_id": 1,
+      "order_id": "Order 19",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 105.64,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 600",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 104.99,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 4,
+      "order_id": "Order 298",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 102.32,
+      "quantity": 5,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 325",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 101.64,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 39",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 251",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 98.03,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 132",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 94.45,
+      "quantity": 9,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 18",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 93.81,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 345",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 87.66,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 6,
+      "order_id": "Order 125",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 82.21,
+      "quantity": 9,
+      "status": "Pending"
+    }
+  ],
+  "sell_orders": [
+    {
+      "broker_id": 2,
+      "client_id": 6,
+      "order_id": "Order 231",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Sell",
+      "price": 110.25,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 237",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Sell",
+      "price": 110.25,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 299",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Sell",
+      "price": 110.25,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 412",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Sell",
+      "price": 110.25,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 428",
+      "stock_symbol": "MOS",
+      "order_type": "Limit",
+      "order_action": "Sell",
+      "price": 110.25,
+      "quantity": 1,
+      "status": "Pending"
+    }
+  ]
 }

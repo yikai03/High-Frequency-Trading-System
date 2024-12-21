@@ -50,7 +50,7 @@ async fn main() {
         kafka_config_consumer.consumer_order_task(risk_sender).await;
     });
 
-    // // // This thread will produce order data to kafka, which is dummy
+    // // This thread will produce order data to kafka, which is dummy
     // let kafka_config_order_producer = Arc::clone(&kafka_config);
     // tokio::spawn(async move {
     //     kafka_config_order_producer.producer_task_for_order(consume_topic, order_receiver).await;
@@ -79,7 +79,7 @@ async fn main() {
         risk_task(risk_receiver, map_stock, rejected_order_sender, order_book_sender).await;
     });
 
-    // // // Start the order simulation task to send order data
+    // // Start the order simulation task to send order data
     // tokio::spawn(async move {
     //     order_dummy::simulate_order(order_sender).await;
     // });

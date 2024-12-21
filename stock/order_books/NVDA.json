@@ -1,4 +1,16 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 717",
+      "stock_symbol": "NVDA",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 2,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

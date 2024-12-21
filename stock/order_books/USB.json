@@ -1,4 +1,16 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 5,
+      "client_id": 15,
+      "order_id": "Order 43",
+      "stock_symbol": "USB",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 81.91,
+      "quantity": 9,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

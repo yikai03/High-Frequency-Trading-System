@@ -1,4 +1,38 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 1,
+      "client_id": 2,
+      "order_id": "Order 88",
+      "stock_symbol": "PG",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 112.29,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 1,
+      "client_id": 2,
+      "order_id": "Order 465",
+      "stock_symbol": "PG",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 1,
+      "client_id": 2,
+      "order_id": "Order 294",
+      "stock_symbol": "PG",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 88.47,
+      "quantity": 8,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

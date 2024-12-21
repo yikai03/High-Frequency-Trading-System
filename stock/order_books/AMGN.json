@@ -1,4 +1,16 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 1,
+      "client_id": 2,
+      "order_id": "Order 13",
+      "stock_symbol": "AMGN",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 104.14,
+      "quantity": 7,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

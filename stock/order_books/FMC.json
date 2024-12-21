@@ -1,4 +1,27 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 577",
+      "stock_symbol": "FMC",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 687",
+      "stock_symbol": "FMC",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 92.33,
+      "quantity": 3,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

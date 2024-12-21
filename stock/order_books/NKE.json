@@ -1,4 +1,27 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 70",
+      "stock_symbol": "NKE",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 12,
+      "order_id": "Order 24",
+      "stock_symbol": "NKE",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 87.98,
+      "quantity": 4,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

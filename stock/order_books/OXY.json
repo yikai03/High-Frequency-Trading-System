@@ -1,4 +1,16 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 622",
+      "stock_symbol": "OXY",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 10,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

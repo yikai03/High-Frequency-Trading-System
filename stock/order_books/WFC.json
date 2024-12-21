@@ -1,4 +1,16 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 5,
+      "client_id": 13,
+      "order_id": "Order 14",
+      "stock_symbol": "WFC",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 114.37,
+      "quantity": 5,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

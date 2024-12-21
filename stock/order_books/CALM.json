@@ -1,4 +1,137 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 310",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 119.06,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 597",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 108.92,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 4,
+      "order_id": "Order 157",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 104.15,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 651",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 103.42,
+      "quantity": 2,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 9,
+      "order_id": "Order 126",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 480",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 671",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 148",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 90.73,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 8,
+      "order_id": "Order 55",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 90.22,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 6,
+      "order_id": "Order 504",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 85.24,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 4,
+      "order_id": "Order 65",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 84.53,
+      "quantity": 8,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 276",
+      "stock_symbol": "CALM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 80.58,
+      "quantity": 2,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

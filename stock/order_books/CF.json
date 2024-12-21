@@ -1,4 +1,93 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 2,
+      "client_id": 6,
+      "order_id": "Order 526",
+      "stock_symbol": "CF",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 117.35,
+      "quantity": 8,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 11,
+      "order_id": "Order 11",
+      "stock_symbol": "CF",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 102.55,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 4,
+      "order_id": "Order 275",
+      "stock_symbol": "CF",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 2,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 6,
+      "order_id": "Order 406",
+      "stock_symbol": "CF",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 9,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 12,
+      "order_id": "Order 9",
+      "stock_symbol": "CF",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 90.42,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 4,
+      "order_id": "Order 122",
+      "stock_symbol": "CF",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 89.66,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 10",
+      "stock_symbol": "CF",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 87.12,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 4",
+      "stock_symbol": "CF",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 82.08,
+      "quantity": 8,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

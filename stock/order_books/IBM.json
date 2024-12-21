@@ -1,4 +1,115 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 4,
+      "client_id": 11,
+      "order_id": "Order 418",
+      "stock_symbol": "IBM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 117.83,
+      "quantity": 2,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 322",
+      "stock_symbol": "IBM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 115.07,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 158",
+      "stock_symbol": "IBM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 110.38,
+      "quantity": 8,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 12,
+      "order_id": "Order 692",
+      "stock_symbol": "IBM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 110.11,
+      "quantity": 2,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 681",
+      "stock_symbol": "IBM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 97.18,
+      "quantity": 2,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 12,
+      "order_id": "Order 442",
+      "stock_symbol": "IBM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 96.18,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 564",
+      "stock_symbol": "IBM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 88.59,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 398",
+      "stock_symbol": "IBM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 88.17,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 12,
+      "order_id": "Order 616",
+      "stock_symbol": "IBM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 81.84,
+      "quantity": 8,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 12,
+      "order_id": "Order 676",
+      "stock_symbol": "IBM",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 80.22,
+      "quantity": 1,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

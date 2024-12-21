@@ -1,4 +1,16 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 26",
+      "stock_symbol": "PEP",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 108.19,
+      "quantity": 1,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

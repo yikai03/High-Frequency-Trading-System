@@ -81,7 +81,33 @@ impl KafkaConfig{
         let consumer = consumer.lock().await; // Lock the consumer to safely access it
     
         // Subscribe to the topic asynchronously
-        consumer.subscribe(&["orders"]).expect("Failed to subscribe to topic");
+        let subscribe_timeout = Duration::from_secs(3);
+        let retry_interval = Duration::from_millis(500); // Retry every 500ms
+        let mut elapsed_time = Duration::ZERO;
+    
+        println!("Attempting to subscribe to 'orders' topic...");
+        while elapsed_time < subscribe_timeout {
+            match consumer.subscribe(&["orders"]) {
+                Ok(_) => {
+                    println!("[{}]: Successfully subscribed to 'orders' topic.", "kafka -- consumer_order_task".green());
+                    break;
+                }
+                Err(e) => {
+                    eprintln!(
+                        "[{}]: Failed to subscribe to 'orders' topic: {:?}. Retrying...",
+                        "kafka -- consumer_order_task".red(),
+                        e
+                    );
+                    tokio::time::sleep(retry_interval).await;
+                    elapsed_time += retry_interval;
+                }
+            }
+        }
+    
+        if elapsed_time >= subscribe_timeout {
+            eprintln!("[{}]: Failed to subscribe to 'orders' topic within 3 seconds. Exiting.", "kafka -- consumer_order_task".red());
+            return;
+        }
     
         let mut interval = interval(Duration::from_millis(50)); // For polling at regular intervals
         println!("Consumer started");

@@ -1,4 +1,82 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 2,
+      "client_id": 4,
+      "order_id": "Order 95",
+      "stock_symbol": "AMZN",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 112.97,
+      "quantity": 7,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 508",
+      "stock_symbol": "AMZN",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 102.84,
+      "quantity": 7,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 6,
+      "order_id": "Order 423",
+      "stock_symbol": "AMZN",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 5,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 6,
+      "order_id": "Order 444",
+      "stock_symbol": "AMZN",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 5,
+      "order_id": "Order 566",
+      "stock_symbol": "AMZN",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 8,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 4,
+      "order_id": "Order 202",
+      "stock_symbol": "AMZN",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 91.92,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 2,
+      "client_id": 6,
+      "order_id": "Order 395",
+      "stock_symbol": "AMZN",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 87.54,
+      "quantity": 6,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

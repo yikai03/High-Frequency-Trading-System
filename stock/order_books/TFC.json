@@ -1,4 +1,16 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 1,
+      "client_id": 2,
+      "order_id": "Order 67",
+      "stock_symbol": "TFC",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 97.03,
+      "quantity": 8,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

@@ -1,4 +1,82 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 82",
+      "stock_symbol": "MS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 9,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 11,
+      "order_id": "Order 685",
+      "stock_symbol": "MS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 199",
+      "stock_symbol": "MS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 98.58,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 12,
+      "order_id": "Order 559",
+      "stock_symbol": "MS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 95.4,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 11,
+      "order_id": "Order 389",
+      "stock_symbol": "MS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 91.61,
+      "quantity": 4,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 10,
+      "order_id": "Order 173",
+      "stock_symbol": "MS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 90.47,
+      "quantity": 2,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 4,
+      "client_id": 12,
+      "order_id": "Order 602",
+      "stock_symbol": "MS",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 83.62,
+      "quantity": 10,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

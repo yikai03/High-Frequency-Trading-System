@@ -1,4 +1,71 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 1,
+      "client_id": 2,
+      "order_id": "Order 510",
+      "stock_symbol": "AGCO",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 119.68,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 1,
+      "client_id": 3,
+      "order_id": "Order 307",
+      "stock_symbol": "AGCO",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 116.45,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 1,
+      "client_id": 1,
+      "order_id": "Order 688",
+      "stock_symbol": "AGCO",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 107.47,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 1,
+      "client_id": 2,
+      "order_id": "Order 149",
+      "stock_symbol": "AGCO",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 8,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 1,
+      "client_id": 2,
+      "order_id": "Order 133",
+      "stock_symbol": "AGCO",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 94.11,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 1,
+      "client_id": 1,
+      "order_id": "Order 94",
+      "stock_symbol": "AGCO",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 88.93,
+      "quantity": 1,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

@@ -1,0 +1,472 @@
+[1734791788] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 33", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 105.0, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 39", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 105.0, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 105.00]
+------------------
+[1734791788] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 45", stock_symbol: "SBUX", order_type: Limit, order_action: Sell, price: 105.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 5, client_id: 15, order_id: "Order 54", stock_symbol: "SBUX", order_type: Market, order_action: Buy, price: 105.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: SBUX, Price: 105.00]
+------------------
+[1734791789] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 46", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 90.0, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 64", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 90.0, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 90.00]
+------------------
+[1734791792] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 66", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 90.0, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 90", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 90.0, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 90.00]
+------------------
+[1734791792] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 89", stock_symbol: "SBUX", order_type: Limit, order_action: Sell, price: 105.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 5, client_id: 15, order_id: "Order 93", stock_symbol: "SBUX", order_type: Market, order_action: Buy, price: 105.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: SBUX, Price: 105.00]
+------------------
+[1734791793] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 98", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 90.0, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 100", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 90.0, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 90.00]
+------------------
+[1734791793] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 98", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 90.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 109", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 90.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 90.00]
+------------------
+[1734791794] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 105", stock_symbol: "SBUX", order_type: Limit, order_action: Sell, price: 105.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 5, client_id: 15, order_id: "Order 106", stock_symbol: "SBUX", order_type: Market, order_action: Buy, price: 105.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: SBUX, Price: 105.00]
+------------------
+[1734791794] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 66", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 90.0, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 112", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 90.0, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 90.00]
+------------------
+[1734791794] Executed Order: [Best Order: OrderRequest { broker_id: 4, client_id: 12, order_id: "Order 91", stock_symbol: "TSLA", order_type: Limit, order_action: Sell, price: 105.0, quantity: 9, status: Completed }] [Market Order: OrderRequest { broker_id: 4, client_id: 11, order_id: "Order 116", stock_symbol: "TSLA", order_type: Market, order_action: Buy, price: 105.0, quantity: 9, status: Completed }] | 
+
+Updated Stock: [Name: TSLA, Price: 105.00]
+------------------
+[1734791794] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 66", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 90.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 120", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 90.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 90.00]
+------------------
+[1734791794] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 111", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 90.0, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 120", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 90.0, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 90.00]
+------------------
+[1734791795] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 119", stock_symbol: "SBUX", order_type: Limit, order_action: Sell, price: 105.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 129", stock_symbol: "SBUX", order_type: Market, order_action: Buy, price: 105.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: SBUX, Price: 105.00]
+------------------
+[1734791795] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 111", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 90.0, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 141", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 90.0, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 90.00]
+------------------
+[1734791796] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 151", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 81.0, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 156", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 81.0, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 81.00]
+------------------
+[1734791796] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 124", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 90.0, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 156", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 90.0, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 90.00]
+------------------
+[1734791797] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 163", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 8, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 177", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 8, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791797] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 163", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 205", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791799] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 224", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 90.0, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 226", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 90.0, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 90.00]
+------------------
+[1734791799] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 163", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 227", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791799] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 168", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 227", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791800] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 244", stock_symbol: "CTVA", order_type: Limit, order_action: Sell, price: 105.0, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 255", stock_symbol: "CTVA", order_type: Market, order_action: Buy, price: 105.0, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: CTVA, Price: 105.00]
+------------------
+[1734791801] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 168", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 9, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 258", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 9, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791801] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 124", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 90.0, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 261", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 90.0, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 90.00]
+------------------
+[1734791802] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 168", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 271", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791802] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 168", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 274", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791802] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 172", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 274", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791802] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 194", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 274", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791804] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 221", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 301", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791805] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 194", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 323", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791805] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 249", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 81.0, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 321", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 81.0, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 81.00]
+------------------
+[1734791805] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 221", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 328", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791806] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 235", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 341", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791806] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 62", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 105.0, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 340", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 105.0, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 105.00]
+------------------
+[1734791806] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 71", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 105.0, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 340", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 105.0, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 105.00]
+------------------
+[1734791806] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 249", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 81.0, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 5, client_id: 15, order_id: "Order 344", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 81.0, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 81.00]
+------------------
+[1734791806] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 279", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 81.0, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 5, client_id: 15, order_id: "Order 344", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 81.0, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 81.00]
+------------------
+[1734791807] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 194", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 8, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 352", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 8, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791808] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 279", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 81.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 355", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 81.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 81.00]
+------------------
+[1734791808] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 279", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 81.0, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 366", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 81.0, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 81.00]
+------------------
+[1734791809] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 279", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 81.0, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 376", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 81.0, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 81.00]
+------------------
+[1734791809] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 235", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 388", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791809] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 248", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 388", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791810] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 290", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 81.0, quantity: 7, status: Completed }] [Market Order: OrderRequest { broker_id: 5, client_id: 13, order_id: "Order 397", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 81.0, quantity: 7, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 81.00]
+------------------
+[1734791810] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 194", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 396", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791810] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 200", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 6, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 396", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 6, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791811] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 248", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 405", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791811] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 285", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 405", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791811] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 290", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 81.0, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 409", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 81.0, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 81.00]
+------------------
+[1734791811] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 302", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 81.0, quantity: 6, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 409", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 81.0, quantity: 6, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 81.00]
+------------------
+[1734791811] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 200", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 407", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791811] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 285", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 8, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 420", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 8, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791811] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 291", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 420", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791812] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 200", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 7, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 413", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 7, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791813] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 302", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 81.0, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 436", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 81.0, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 81.00]
+------------------
+[1734791813] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 224", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 90.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 436", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 90.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 90.00]
+------------------
+[1734791813] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 71", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 105.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 440", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 105.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 105.00]
+------------------
+[1734791813] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 84", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 105.0, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 440", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 105.0, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 105.00]
+------------------
+[1734791813] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 160", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 110.25, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 440", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 110.25, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 110.25]
+------------------
+[1734791813] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 169", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 110.25, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 440", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 110.25, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 110.25]
+------------------
+[1734791815] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 200", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 462", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791815] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 210", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 7, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 462", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 7, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791816] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 224", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 90.0, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 466", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 90.0, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 90.00]
+------------------
+[1734791816] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 210", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 10, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 469", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 10, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791816] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 210", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 81.0, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 478", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 81.0, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 81.00]
+------------------
+[1734791816] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 224", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 90.0, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 479", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 90.0, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 90.00]
+------------------
+[1734791817] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 169", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 110.25, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 482", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 110.25, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 110.25]
+------------------
+[1734791817] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 169", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 110.25, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 484", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 110.25, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 110.25]
+------------------
+[1734791817] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 189", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 110.25, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 484", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 110.25, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 110.25]
+------------------
+[1734791817] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 231", stock_symbol: "MOS", order_type: Limit, order_action: Sell, price: 110.25, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 484", stock_symbol: "MOS", order_type: Market, order_action: Buy, price: 110.25, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: MOS, Price: 110.25]
+------------------
+[1734791819] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 291", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 7, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 505", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 7, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791819] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 145", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 90.0, quantity: 6, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 506", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 90.0, quantity: 6, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 90.00]
+------------------
+[1734791819] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 224", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 90.0, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 512", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 90.0, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 90.00]
+------------------
+[1734791819] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 224", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 90.0, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 513", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 90.0, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 90.00]
+------------------
+[1734791821] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 291", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 94.5, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 536", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 94.5, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 94.50]
+------------------
+[1734791821] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 324", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 536", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791821] Executed Order: [Best Order: OrderRequest { broker_id: 5, client_id: 14, order_id: "Order 224", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 90.0, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 537", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 90.0, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 90.00]
+------------------
+[1734791821] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 458", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 537", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791821] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 324", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 542", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791822] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 533", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 94.5, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 548", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 94.5, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 94.50]
+------------------
+[1734791822] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 458", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 553", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791822] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 533", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 94.5, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 9, order_id: "Order 558", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 94.5, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 94.50]
+------------------
+[1734791823] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 458", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 4, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 576", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 4, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791823] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 533", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 94.5, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 591", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 94.5, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 94.50]
+------------------
+[1734791824] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 458", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 10, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 603", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 10, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791824] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 538", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 94.5, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 610", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 94.5, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 94.50]
+------------------
+[1734791825] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 324", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 628", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791825] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 332", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 628", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791825] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 337", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 628", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791826] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 458", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 638", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791826] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 337", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 633", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791826] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 481", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 10, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 643", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 10, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791827] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 481", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 9, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 649", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 9, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791827] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 337", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 657", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791827] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 380", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 657", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791827] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 394", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 657", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791827] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 404", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 657", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791827] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 416", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 657", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791827] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 417", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 657", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 481", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 8, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 663", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 8, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 417", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 670", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 424", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 670", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 438", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 670", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 485", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 670", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 499", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 670", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 528", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 99.23, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 670", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 99.23, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 99.23]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 3, order_id: "Order 572", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 104.19, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 670", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 104.19, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 104.19]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 595", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 104.19, quantity: 3, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 1, order_id: "Order 670", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 104.19, quantity: 3, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 104.19]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 3, client_id: 8, order_id: "Order 538", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 94.5, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 666", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 94.5, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 94.50]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 540", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 94.5, quantity: 7, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 666", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 94.5, quantity: 7, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 94.50]
+------------------
+[1734791828] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 595", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 104.19, quantity: 5, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 675", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 104.19, quantity: 5, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 104.19]
+------------------
+[1734791830] Executed Order: [Best Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 595", stock_symbol: "UL", order_type: Limit, order_action: Sell, price: 104.19, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 1, client_id: 2, order_id: "Order 690", stock_symbol: "UL", order_type: Market, order_action: Buy, price: 104.19, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: UL, Price: 104.19]
+------------------
+[1734791830] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 674", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 85.05, quantity: 10, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 682", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 85.05, quantity: 10, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 85.05]
+------------------
+[1734791830] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 503", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 9, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 693", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 9, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791831] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 5, order_id: "Order 674", stock_symbol: "JPM", order_type: Limit, order_action: Sell, price: 85.05, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 3, client_id: 7, order_id: "Order 699", stock_symbol: "JPM", order_type: Market, order_action: Buy, price: 85.05, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: JPM, Price: 85.05]
+------------------
+[1734791831] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 503", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 10, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 697", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 10, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791831] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 503", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 2, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 6, order_id: "Order 710", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 2, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------
+[1734791832] Executed Order: [Best Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 503", stock_symbol: "PSX", order_type: Limit, order_action: Sell, price: 94.5, quantity: 1, status: Completed }] [Market Order: OrderRequest { broker_id: 2, client_id: 4, order_id: "Order 715", stock_symbol: "PSX", order_type: Market, order_action: Buy, price: 94.5, quantity: 1, status: Completed }] | 
+
+Updated Stock: [Name: PSX, Price: 94.50]
+------------------

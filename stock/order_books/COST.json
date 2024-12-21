@@ -1,4 +1,27 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 232",
+      "stock_symbol": "COST",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 5,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 3,
+      "client_id": 7,
+      "order_id": "Order 551",
+      "stock_symbol": "COST",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 8,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

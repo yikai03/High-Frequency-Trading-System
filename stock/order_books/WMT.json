@@ -1,4 +1,170 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 5,
+      "client_id": 14,
+      "order_id": "Order 282",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 109.45,
+      "quantity": 1,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 14,
+      "order_id": "Order 254",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 108.95,
+      "quantity": 8,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 15,
+      "order_id": "Order 483",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 108.42,
+      "quantity": 9,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 15,
+      "order_id": "Order 229",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 106.97,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 13,
+      "order_id": "Order 624",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.57,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 13,
+      "order_id": "Order 28",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 14,
+      "order_id": "Order 209",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 13,
+      "order_id": "Order 335",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 15,
+      "order_id": "Order 411",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 3,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 15,
+      "order_id": "Order 467",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 6,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 13,
+      "order_id": "Order 532",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 10,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 15,
+      "order_id": "Order 650",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 100.0,
+      "quantity": 9,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 13,
+      "order_id": "Order 312",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 94.9,
+      "quantity": 5,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 14,
+      "order_id": "Order 315",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 94.43,
+      "quantity": 2,
+      "status": "Pending"
+    },
+    {
+      "broker_id": 5,
+      "client_id": 14,
+      "order_id": "Order 535",
+      "stock_symbol": "WMT",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 90.98,
+      "quantity": 3,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }

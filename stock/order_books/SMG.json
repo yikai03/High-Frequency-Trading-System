@@ -1,4 +1,16 @@
 {
-  "buy_orders": [],
+  "buy_orders": [
+    {
+      "broker_id": 5,
+      "client_id": 14,
+      "order_id": "Order 15",
+      "stock_symbol": "SMG",
+      "order_type": "Limit",
+      "order_action": "Buy",
+      "price": 95.98,
+      "quantity": 4,
+      "status": "Pending"
+    }
+  ],
   "sell_orders": []
 }
