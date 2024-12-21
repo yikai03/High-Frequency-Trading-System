@@ -7,7 +7,7 @@ use crate::stock::MapStock;
 use crate::order_dummy::{OrderRequest, OrderStatus};
 
 pub async fn risk_task(
-    mut order_receiver: mpsc::Receiver<Vec<String>>, 
+    mut order_receiver: mpsc::Receiver<String>, 
     stock: MapStock, 
     rejected_order_sender: mpsc::Sender<OrderRequest>,
     order_book_sender: mpsc::Sender<OrderRequest>,
@@ -15,7 +15,7 @@ pub async fn risk_task(
     while let Some(message) = order_receiver.recv().await {
         println!("[{}]:  Order received: {:?}", "Risk management".green(), message);
 
-        let order: OrderRequest = serde_json::from_str(&message[0]).unwrap();
+        let order: OrderRequest = serde_json::from_str(&message).unwrap();
 
         let stock_price = stock.read(&order.stock_symbol.clone()).unwrap();
 

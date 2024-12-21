@@ -3,6 +3,7 @@ use std::io::Write;
 use std::path::Path;
 use tokio::sync::mpsc;
 use tokio;
+use tokio::time::Instant;
 use colored::Colorize;
 
 use crate::{order_dummy::{OrderRequest, OrderAction, OrderType, OrderStatus}, stock::{MapStock, Stock}, log::Logger};
@@ -72,6 +73,7 @@ impl OrderBookHandler {
 
     pub async fn add_to_order_book(&self, mut order_book_receiver: mpsc::Receiver<OrderRequest>, mut completed_order_sender: mpsc::Sender<OrderRequest>, mut stock_updater_sender: mpsc::Sender<Stock>) {
         while let Some(mut order) = order_book_receiver.recv().await {
+            let start = Instant::now();
             let file_path = format!("order_books/{}.json", order.stock_symbol);
             let mut order_book = OrderBookHandler::load_from_file(&file_path).unwrap();
             match order.order_type {
@@ -124,6 +126,8 @@ impl OrderBookHandler {
             if let Err(e) = OrderBookHandler::save_to_file(&order_book, &file_path) {
                 eprintln!("[{}]: Failed to save order book to file: {}", "order_book -- OrderBook".red(), e);
             }
+            let duration = start.elapsed();
+            println!("[{}]: {} order processed in {:?}", "order_book -- OrderBook".green(), "Order".bold().on_bright_purple(), duration);
         }
     }
 

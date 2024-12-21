@@ -75,16 +75,15 @@ impl KafkaConfig{
     
     pub async fn consumer_order_task(
         &self,
-        risk_sender: mpsc::Sender<Vec<String>>,
+        risk_sender: mpsc::Sender<String>,
     ) {
         let consumer = self.consumer.clone(); // Clone the Arc to access the consumer
         let consumer = consumer.lock().await; // Lock the consumer to safely access it
     
         // Subscribe to the topic asynchronously
-        consumer.subscribe(&["order"]).expect("Failed to subscribe to topic");
+        consumer.subscribe(&["orders"]).expect("Failed to subscribe to topic");
     
-        let mut interval = interval(Duration::from_secs(1)); // For polling at regular intervals
-        let mut buffer: Vec<String> = Vec::new(); // Buffer to hold messages
+        let mut interval = interval(Duration::from_millis(50)); // For polling at regular intervals
         println!("Consumer started");
     
         // Start polling messages from Kafka
@@ -95,41 +94,49 @@ impl KafkaConfig{
             match consumer.recv().await {
                 Ok(message) => {
                     if let Some(payload) = message.payload_view::<str>() {
-                        println!("[{}]: Received message: {:?}","kafka -- consumer_order_task".green(), payload.unwrap_or(""));
+                        println!(
+                            "[{}]: Received message: {:?}",
+                            "kafka -- consumer_order_task".green(),
+                            payload.unwrap_or("")
+                        );
     
-                        // Add the received message to the buffer
-                        buffer.push(payload.unwrap_or("").to_string());
-                    }else {
-                        println!("[{}]: Error while deserializing message", "kafka -- consumer_order_task".red());
+                        // Send the received message directly to risk_sender
+                        if risk_sender
+                            .send(payload.unwrap_or("").to_string())
+                            .await
+                            .is_err()
+                        {
+                            eprintln!(
+                                "[{}]: Failed to send order to risk management.",
+                                "kafka -- consumer_order_task".red()
+                            );
+                            break;
+                        }
+                    } else {
+                        println!(
+                            "[{}]: Error while deserializing message",
+                            "kafka -- consumer_order_task".red()
+                        );
                     }
     
                     // Commit the message offset after processing
-                    consumer.commit_message(&message, CommitMode::Async).unwrap();
-    
-                    // If the buffer has accumulated enough messages, send them
-                    if buffer.len() >= 1 {
-                        if risk_sender.send(buffer.clone()).await.is_err() {
-                            eprintln!("[{}]: Failed to send orders to risk management.", "kafka -- consumer_order_task".red());
-                            break;
-                        }
-                        buffer.clear(); // Clear the buffer after sending
-                    }
+                    consumer
+                        .commit_message(&message, CommitMode::Async)
+                        .unwrap();
                 }
                 Err(e) => {
                     // Handle any errors while consuming
-                    eprintln!("[{}]: Error while consuming: {:?}", "kafka -- consumer_order_task".red(), e);
+                    eprintln!(
+                        "[{}]: Error while consuming: {:?}",
+                        "kafka -- consumer_order_task".red(),
+                        e
+                    );
                     break;
                 }
             }
         }
-    
-        // Send remaining messages in the buffer before exiting the loop
-        if !buffer.is_empty() {
-            if risk_sender.send(buffer).await.is_err() {
-                eprintln!("[{}]: Failed to send remaining orders to risk management.", "kafka -- consumer_order_task".red());
-            }
-        }
-    }   
+    }
+       
 }
 
 // BaseProducer version

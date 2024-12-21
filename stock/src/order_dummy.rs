@@ -79,7 +79,7 @@ pub async fn simulate_order(sender: mpsc::Sender<OrderRequest>) {
             OrderStatus::Pending, // Status
         );
 
-        sleep(Duration::from_secs(1)).await;
+        sleep(Duration::from_millis(80)).await;
 
         if sender.send(new_order.clone()).await.is_err() {
             eprintln!("Failed to send stock data.");
